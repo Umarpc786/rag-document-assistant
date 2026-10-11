@@ -1,5 +1,4 @@
 
-%%writefile app.py
 import io
 import os
 import re
